@@ -1,0 +1,64 @@
+@charset "UTF-8";
+body
+{
+	background-color:	rgb(169,169,169);
+}
+.dis_back
+{
+    background-color: rgb(147, 245, 245);
+    padding-top: 60px;
+    padding-left: 40px;
+    padding-right: 40px;
+    width: 50%;
+    margin-top: 150px;
+    border-radius: 10px;
+   
+}
+.dis_back .buttonw{
+    width: 40%;
+    text-align: center
+    
+}
+
+.buttonw{
+	width:40%;
+	text-align:center;
+	
+}
+
+.Login_title
+{
+	padding-bottom:15px;
+}
+
+
+/* Registration Page_Admin*/
+
+
+.dis_back2
+{
+    background-color: rgb(255, 255, 255);
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 38%;
+    border-radius: 10px;
+    margin-top: 100px;
+    padding-top: 20px;
+    
+    
+}
+
+.dis_back2 .buttonw{
+  width: 40%;
+  text-align: center;
+  
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+
